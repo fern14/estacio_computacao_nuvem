@@ -32,6 +32,6 @@ Este projeto é resultado de uma colaboração entre estudantes universitários 
 
 [David Delfino Fernandes] - [contatodavidfernandes@hotmail.com]
 
-Projeto vinculado à [Nome da Sua Universidade] - [Departamento/Curso]
+Projeto vinculado à [Estácio] - [Análise e Desenvolvimento de Sistemas]
 
 Última atualização: [2024-07-14]
